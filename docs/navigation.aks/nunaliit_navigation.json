@@ -1,0 +1,31 @@
+{
+	"nunaliit_type":"navigation"
+	,"title":{
+		"nunaliit_type":"localized"
+		,"en":"Aks Atlas"
+		,"fr":"L'Atlas"
+	}
+	,"items":[
+		{
+			"title": {
+				"nunaliit_type":"localized"
+				,"en":"Aks Module"
+				,"fr":"Module de Base"
+			}
+			,"module": "module.aks"
+			,"items":[
+				{
+					"module": "module.aks"
+				}
+			]
+		}
+		,{
+			"title": {
+				"nunaliit_type":"localized"
+				,"en":"Tools"
+				,"fr":"Outils"
+			}
+			,"href": "./tools/index.html"
+		}
+	]
+}

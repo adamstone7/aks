@@ -1,0 +1,76 @@
+{
+	"coordinates": {
+		"initialBounds": [-76.19,45.00,-75.94,45.09]
+		,"autoInitialBounds": false
+	}
+	,"backgrounds": [
+		{ 
+			"name": "OSM"
+			,"type": "osm"
+			,"options": {
+			}
+		}
+		,{ 
+			"name": "Google Satellite"
+			,"type": "Google Maps"
+			,"options": {
+				"type": "SATELLITE"
+				, "numZoomLevels": 19 
+			}
+		}
+		,{ 
+			"name": "Google Hybrid"
+			,"type": "Google Maps"
+			,"options": {
+				"type": "HYBRID"
+				,"numZoomLevels": 19
+			}
+		}
+		,{ 
+			"name": "Google Physical"
+			,"type": "Google Maps"
+			,"options": {
+				"type": "TERRAIN"
+				,"numZoomLevels": 16
+			}
+		}
+	]
+	,"overlays": [
+		{
+			"id": "public_demo"
+			,"name": {
+				"nunaliit_type":"localized"
+				,"en":"Aks"
+			}
+			,"type": "couchdb"
+			,"options": {
+				"layerName": "public_demo"
+			}
+			,"featurePopupDelayMs": 0
+			,"useHoverSound": true
+			,"clustering": {
+				"distance": 20
+                ,"threshold": 1
+                ,"disableDynamicClustering": false
+                ,"clusterPointsOnly": false
+                ,"minimumLinePixelSize": 20
+                ,"minimumPolygonPixelSize": 20
+			}
+		}
+	]
+	,"addPointsOnly": false
+	,"showSRSAttribution": true
+	,"toggleClick": true
+	,"canvasName": "Aks Map"
+	,"styles":[
+		{
+			"condition": "true"
+			,"label": "Observation"
+			,"normal": {
+				"strokeColor": "#FF0093",
+				"fill":"#ffff33",
+				"fillOpacity": 0.2
+			}
+		}
+	]
+}

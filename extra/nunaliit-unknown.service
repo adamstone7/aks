@@ -1,0 +1,13 @@
+[Unit]
+Description=nunaliit-unknown
+Requires=couchdb.service
+After=couchdb.service
+
+[Service]
+Type=simple
+User=nunaliit
+ExecStart=/home/adamstone/Desktop/nunaliitTraining/nunaliit_2.2.9-SNAPSHOT_2020-11-18_8eba8e4/bin/nunaliit --atlas-dir "/home/adamstone/Desktop/nunaliitTraining/aks" run
+Restart=on-failure
+
+[Install]
+WantedBy=multi-user.target

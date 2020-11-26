@@ -1,0 +1,911 @@
+2020-11-19 10:05:25,811[INFO ]: Logging initialized @493ms
+2020-11-19 10:05:26,003[INFO ]: jetty-9.2.14.v20151106
+2020-11-19 10:05:26,147[INFO ]: Initializing Couch Configuration
+2020-11-19 10:05:26,149[INFO ]: RNG: NativePRNG
+2020-11-19 10:05:26,152[INFO ]: Document database configured: http://127.0.0.1:5984/aks/
+2020-11-19 10:05:26,153[INFO ]: User database configured: http://127.0.0.1:5984/_users/
+2020-11-19 10:05:26,238[INFO ]: User design document. Disk: 3 Db: 3 Update Required: true
+2020-11-19 10:05:26,282[INFO ]: Reading properties from /home/adamstone/Desktop/nunaliitTraining/aks/./config/multimedia.properties
+2020-11-19 10:05:26,297[INFO ]: Reading properties from /home/adamstone/Desktop/nunaliitTraining/aks/./config/sensitive.properties
+2020-11-19 10:05:26,297[INFO ]: Reading properties from /home/adamstone/Desktop/nunaliitTraining/aks/./config/mail.properties
+2020-11-19 10:05:26,322[INFO ]: sendUploadMailNotification: false
+2020-11-19 10:05:26,335[INFO ]: sendUploadMailNotification: false
+2020-11-19 10:05:26,337[INFO ]: Reading properties from /home/adamstone/Desktop/nunaliitTraining/aks/./config/upload.properties
+2020-11-19 10:05:26,338[INFO ]: Repository directory is /home/adamstone/Desktop/nunaliitTraining/aks/./media
+2020-11-19 10:05:26,346[INFO ]: uploadOriginalFiles: true
+2020-11-19 10:05:26,351[INFO ]: uploadOriginalFiles: true
+2020-11-19 10:05:26,369[INFO ]: Start database change monitor thread
+2020-11-19 10:05:26,379[INFO ]: Start upload worker thread
+2020-11-19 10:05:26,379[INFO ]: Submission database is not enabled
+2020-11-19 10:05:26,394[INFO ]: Vetter daily notifications set to start at: 2020-11-20 00:00:00
+2020-11-19 10:05:26,465[INFO ]: Starting DB change listener thread
+2020-11-19 10:05:26,570[INFO ]: Starting DB change listener thread
+2020-11-19 10:05:26,572[INFO ]: Starting DB change listener thread
+2020-11-19 10:05:26,587[INFO ]: Completed Couch Configuration
+2020-11-19 10:05:26,595[INFO ]: Starting DB change listener thread
+2020-11-19 10:05:26,639[INFO ]: Initialization started
+2020-11-19 10:05:26,639[INFO ]: Initialization finished
+2020-11-19 10:05:26,639[INFO ]: Initialization started
+2020-11-19 10:05:26,640[INFO ]: Initialization finished
+2020-11-19 10:05:26,640[INFO ]: Initialization started
+2020-11-19 10:05:26,640[INFO ]: Initialization finished
+2020-11-19 10:05:26,639[INFO ]: Start date worker thread
+2020-11-19 10:05:26,642[INFO ]: SubmissionServlet servlet initialization - start
+2020-11-19 10:05:26,644[INFO ]: SubmissionServlet servlet initialization - completed
+2020-11-19 10:05:26,644[INFO ]: UserServlet servlet initialization - start
+2020-11-19 10:05:26,733[INFO ]: UserServlet servlet initialization - completed
+2020-11-19 10:05:26,734[INFO ]: Start agreement worker thread
+2020-11-19 10:05:26,748[INFO ]: Upload Property upload.repository.dir = /home/adamstone/Desktop/nunaliitTraining/aks/./media
+2020-11-19 10:05:26,749[INFO ]: Upload Property atlas.name = aks
+2020-11-19 10:05:26,749[INFO ]: OnUploadedListener: UploadListener
+2020-11-19 10:05:26,751[INFO ]: Started o.e.j.s.ServletContextHandler@5acf93bb{/,null,AVAILABLE}
+2020-11-19 10:05:26,777[INFO ]: New user agreement detected: 1-4a74d27edbad7ef9ac61be9d9adbb360
+2020-11-19 10:05:26,798[INFO ]: User agreement is not enabled. Skip.
+2020-11-19 10:05:26,833[INFO ]: Started ServerConnector@5b03b9fe{HTTP/1.1}{0.0.0.0:8080}
+2020-11-19 10:05:26,833[INFO ]: Started @1518ms
+2020-11-19 10:14:38,303[INFO ]: Logging initialized @421ms
+2020-11-19 10:14:38,452[INFO ]: jetty-9.2.14.v20151106
+2020-11-19 10:14:38,549[INFO ]: Initializing Couch Configuration
+2020-11-19 10:14:38,552[INFO ]: RNG: NativePRNG
+2020-11-19 10:14:38,554[INFO ]: Document database configured: http://127.0.0.1:5984/aks/
+2020-11-19 10:14:38,555[INFO ]: User database configured: http://127.0.0.1:5984/_users/
+2020-11-19 10:14:38,636[INFO ]: User design document. Disk: 3 Db: 3 Update Required: true
+2020-11-19 10:14:38,672[INFO ]: Reading properties from /home/adamstone/Desktop/nunaliitTraining/aks/./config/multimedia.properties
+2020-11-19 10:14:38,688[INFO ]: Reading properties from /home/adamstone/Desktop/nunaliitTraining/aks/./config/sensitive.properties
+2020-11-19 10:14:38,688[INFO ]: Reading properties from /home/adamstone/Desktop/nunaliitTraining/aks/./config/mail.properties
+2020-11-19 10:14:38,703[INFO ]: sendUploadMailNotification: false
+2020-11-19 10:14:38,722[INFO ]: sendUploadMailNotification: false
+2020-11-19 10:14:38,723[INFO ]: Reading properties from /home/adamstone/Desktop/nunaliitTraining/aks/./config/upload.properties
+2020-11-19 10:14:38,724[INFO ]: Repository directory is /home/adamstone/Desktop/nunaliitTraining/aks/./media
+2020-11-19 10:14:38,730[INFO ]: uploadOriginalFiles: true
+2020-11-19 10:14:38,734[INFO ]: uploadOriginalFiles: true
+2020-11-19 10:14:38,758[INFO ]: Start database change monitor thread
+2020-11-19 10:14:38,762[INFO ]: Submission database is not enabled
+2020-11-19 10:14:38,762[INFO ]: Start upload worker thread
+2020-11-19 10:14:38,765[INFO ]: Vetter daily notifications set to start at: 2020-11-20 00:00:00
+2020-11-19 10:14:38,806[INFO ]: Starting DB change listener thread
+2020-11-19 10:14:38,918[INFO ]: Starting DB change listener thread
+2020-11-19 10:14:38,919[INFO ]: Starting DB change listener thread
+2020-11-19 10:14:38,938[INFO ]: Completed Couch Configuration
+2020-11-19 10:14:38,939[INFO ]: Starting DB change listener thread
+2020-11-19 10:14:38,991[INFO ]: Initialization started
+2020-11-19 10:14:38,993[INFO ]: Initialization finished
+2020-11-19 10:14:38,994[INFO ]: Initialization started
+2020-11-19 10:14:38,996[INFO ]: Initialization finished
+2020-11-19 10:14:38,996[INFO ]: Initialization started
+2020-11-19 10:14:38,996[INFO ]: Initialization finished
+2020-11-19 10:14:38,991[INFO ]: Start date worker thread
+2020-11-19 10:14:38,998[INFO ]: SubmissionServlet servlet initialization - start
+2020-11-19 10:14:38,999[INFO ]: SubmissionServlet servlet initialization - completed
+2020-11-19 10:14:38,999[INFO ]: UserServlet servlet initialization - start
+2020-11-19 10:14:39,027[INFO ]: UserServlet servlet initialization - completed
+2020-11-19 10:14:39,033[INFO ]: Start agreement worker thread
+2020-11-19 10:14:39,040[INFO ]: Upload Property upload.repository.dir = /home/adamstone/Desktop/nunaliitTraining/aks/./media
+2020-11-19 10:14:39,041[INFO ]: Upload Property atlas.name = aks
+2020-11-19 10:14:39,044[INFO ]: OnUploadedListener: UploadListener
+2020-11-19 10:14:39,060[INFO ]: Started o.e.j.s.ServletContextHandler@5acf93bb{/,null,AVAILABLE}
+2020-11-19 10:14:39,078[INFO ]: Started ServerConnector@5b03b9fe{HTTP/1.1}{0.0.0.0:8080}
+2020-11-19 10:14:39,082[INFO ]: Started @1199ms
+2020-11-19 10:14:39,105[INFO ]: New user agreement detected: 1-4a74d27edbad7ef9ac61be9d9adbb360
+2020-11-19 10:14:39,116[INFO ]: User agreement is not enabled. Skip.
+2020-11-19 10:16:21,044[INFO ]: Logging initialized @408ms
+2020-11-19 10:16:21,188[INFO ]: jetty-9.2.14.v20151106
+2020-11-19 10:16:21,291[INFO ]: Initializing Couch Configuration
+2020-11-19 10:16:21,296[INFO ]: RNG: NativePRNG
+2020-11-19 10:16:21,300[INFO ]: Document database configured: http://127.0.0.1:5984/aks/
+2020-11-19 10:16:21,301[INFO ]: User database configured: http://127.0.0.1:5984/_users/
+2020-11-19 10:16:21,387[INFO ]: User design document. Disk: 3 Db: 3 Update Required: true
+2020-11-19 10:16:21,433[INFO ]: Reading properties from /home/adamstone/Desktop/nunaliitTraining/aks/./config/multimedia.properties
+2020-11-19 10:16:21,445[INFO ]: Reading properties from /home/adamstone/Desktop/nunaliitTraining/aks/./config/sensitive.properties
+2020-11-19 10:16:21,445[INFO ]: Reading properties from /home/adamstone/Desktop/nunaliitTraining/aks/./config/mail.properties
+2020-11-19 10:16:21,468[INFO ]: sendUploadMailNotification: false
+2020-11-19 10:16:21,482[INFO ]: sendUploadMailNotification: false
+2020-11-19 10:16:21,483[INFO ]: Reading properties from /home/adamstone/Desktop/nunaliitTraining/aks/./config/upload.properties
+2020-11-19 10:16:21,484[INFO ]: Repository directory is /home/adamstone/Desktop/nunaliitTraining/aks/./media
+2020-11-19 10:16:21,489[INFO ]: uploadOriginalFiles: true
+2020-11-19 10:16:21,496[INFO ]: uploadOriginalFiles: true
+2020-11-19 10:16:21,517[INFO ]: Start database change monitor thread
+2020-11-19 10:16:21,531[INFO ]: Submission database is not enabled
+2020-11-19 10:16:21,535[INFO ]: Start upload worker thread
+2020-11-19 10:16:21,535[INFO ]: Vetter daily notifications set to start at: 2020-11-20 00:00:00
+2020-11-19 10:16:21,551[INFO ]: Starting DB change listener thread
+2020-11-19 10:16:21,668[INFO ]: Starting DB change listener thread
+2020-11-19 10:16:21,669[INFO ]: Starting DB change listener thread
+2020-11-19 10:16:21,723[INFO ]: Completed Couch Configuration
+2020-11-19 10:16:21,723[INFO ]: Starting DB change listener thread
+2020-11-19 10:16:21,755[INFO ]: Initialization started
+2020-11-19 10:16:21,755[INFO ]: Initialization finished
+2020-11-19 10:16:21,755[INFO ]: Initialization started
+2020-11-19 10:16:21,755[INFO ]: Initialization finished
+2020-11-19 10:16:21,755[INFO ]: Initialization started
+2020-11-19 10:16:21,755[INFO ]: Initialization finished
+2020-11-19 10:16:21,758[INFO ]: Start date worker thread
+2020-11-19 10:16:21,761[INFO ]: SubmissionServlet servlet initialization - start
+2020-11-19 10:16:21,765[INFO ]: SubmissionServlet servlet initialization - completed
+2020-11-19 10:16:21,766[INFO ]: UserServlet servlet initialization - start
+2020-11-19 10:16:21,792[INFO ]: UserServlet servlet initialization - completed
+2020-11-19 10:16:21,795[INFO ]: Start agreement worker thread
+2020-11-19 10:16:21,799[INFO ]: Upload Property upload.repository.dir = /home/adamstone/Desktop/nunaliitTraining/aks/./media
+2020-11-19 10:16:21,799[INFO ]: Upload Property atlas.name = aks
+2020-11-19 10:16:21,799[INFO ]: OnUploadedListener: UploadListener
+2020-11-19 10:16:21,801[INFO ]: Started o.e.j.s.ServletContextHandler@5acf93bb{/,null,AVAILABLE}
+2020-11-19 10:16:21,822[INFO ]: Started ServerConnector@5b03b9fe{HTTP/1.1}{0.0.0.0:8080}
+2020-11-19 10:16:21,828[INFO ]: Started @1191ms
+2020-11-19 10:16:21,839[INFO ]: New user agreement detected: 1-4a74d27edbad7ef9ac61be9d9adbb360
+2020-11-19 10:16:21,841[INFO ]: User agreement is not enabled. Skip.
+2020-11-19 10:41:38,538[INFO ]: Logging initialized @681ms
+2020-11-19 10:41:39,107[INFO ]: jetty-9.2.14.v20151106
+2020-11-19 10:41:39,397[INFO ]: Initializing Couch Configuration
+2020-11-19 10:41:39,414[INFO ]: RNG: NativePRNG
+2020-11-19 10:41:39,424[INFO ]: Document database configured: http://127.0.0.1:5984/aks/
+2020-11-19 10:41:39,428[INFO ]: User database configured: http://127.0.0.1:5984/_users/
+2020-11-19 10:41:39,583[INFO ]: User design document. Disk: 3 Db: 3 Update Required: true
+2020-11-19 10:41:39,618[INFO ]: Reading properties from /home/adamstone/Desktop/nunaliitTraining/aks/./config/multimedia.properties
+2020-11-19 10:41:39,668[INFO ]: Reading properties from /home/adamstone/Desktop/nunaliitTraining/aks/./config/sensitive.properties
+2020-11-19 10:41:39,668[INFO ]: Reading properties from /home/adamstone/Desktop/nunaliitTraining/aks/./config/mail.properties
+2020-11-19 10:41:39,751[INFO ]: sendUploadMailNotification: false
+2020-11-19 10:41:39,838[INFO ]: sendUploadMailNotification: false
+2020-11-19 10:41:39,842[INFO ]: Reading properties from /home/adamstone/Desktop/nunaliitTraining/aks/./config/upload.properties
+2020-11-19 10:41:39,852[INFO ]: Repository directory is /home/adamstone/Desktop/nunaliitTraining/aks/./media
+2020-11-19 10:41:39,895[INFO ]: uploadOriginalFiles: true
+2020-11-19 10:41:39,913[INFO ]: uploadOriginalFiles: true
+2020-11-19 10:41:40,011[INFO ]: Start database change monitor thread
+2020-11-19 10:41:40,017[INFO ]: Submission database is not enabled
+2020-11-19 10:41:40,018[INFO ]: Start upload worker thread
+2020-11-19 10:41:40,058[INFO ]: Vetter daily notifications set to start at: 2020-11-20 00:00:00
+2020-11-19 10:41:40,103[INFO ]: Starting DB change listener thread
+2020-11-19 10:41:40,381[INFO ]: Starting DB change listener thread
+2020-11-19 10:41:40,383[INFO ]: Starting DB change listener thread
+2020-11-19 10:41:40,391[INFO ]: Completed Couch Configuration
+2020-11-19 10:41:40,391[INFO ]: Starting DB change listener thread
+2020-11-19 10:41:40,435[INFO ]: Initialization started
+2020-11-19 10:41:40,435[INFO ]: Start date worker thread
+2020-11-19 10:41:40,436[INFO ]: Initialization finished
+2020-11-19 10:41:40,436[INFO ]: Initialization started
+2020-11-19 10:41:40,436[INFO ]: Initialization finished
+2020-11-19 10:41:40,436[INFO ]: Initialization started
+2020-11-19 10:41:40,436[INFO ]: Initialization finished
+2020-11-19 10:41:40,439[INFO ]: SubmissionServlet servlet initialization - start
+2020-11-19 10:41:40,448[INFO ]: SubmissionServlet servlet initialization - completed
+2020-11-19 10:41:40,449[INFO ]: UserServlet servlet initialization - start
+2020-11-19 10:41:40,475[INFO ]: UserServlet servlet initialization - completed
+2020-11-19 10:41:40,477[INFO ]: Start agreement worker thread
+2020-11-19 10:41:40,484[INFO ]: Upload Property upload.repository.dir = /home/adamstone/Desktop/nunaliitTraining/aks/./media
+2020-11-19 10:41:40,484[INFO ]: Upload Property atlas.name = aks
+2020-11-19 10:41:40,485[INFO ]: OnUploadedListener: UploadListener
+2020-11-19 10:41:40,488[INFO ]: Started o.e.j.s.ServletContextHandler@5acf93bb{/,null,AVAILABLE}
+2020-11-19 10:41:40,599[INFO ]: New user agreement detected: 1-4a74d27edbad7ef9ac61be9d9adbb360
+2020-11-19 10:41:40,618[INFO ]: Started ServerConnector@5b03b9fe{HTTP/1.1}{0.0.0.0:8080}
+2020-11-19 10:41:40,626[INFO ]: Started @2771ms
+2020-11-19 10:41:40,646[INFO ]: User agreement is not enabled. Skip.
+2020-11-19 10:41:52,136[INFO ]: Exception while notifying listener org.eclipse.jetty.proxy.ProxyServlet$ProxyResponseListener@7e6befe5
+java.lang.IllegalStateException: Committed
+	at org.eclipse.jetty.server.Response.resetBuffer(Response.java:1243)
+	at javax.servlet.ServletResponseWrapper.resetBuffer(ServletResponseWrapper.java:241)
+	at org.eclipse.jetty.servlets.gzip.CompressedResponseWrapper.resetBuffer(CompressedResponseWrapper.java:274)
+	at org.eclipse.jetty.servlets.gzip.CompressedResponseWrapper.sendError(CompressedResponseWrapper.java:299)
+	at org.eclipse.jetty.proxy.AbstractProxyServlet.onProxyResponseFailure(AbstractProxyServlet.java:625)
+	at org.eclipse.jetty.proxy.ProxyServlet.onResponseFailure(ProxyServlet.java:175)
+	at org.eclipse.jetty.proxy.ProxyServlet$ProxyResponseListener.onComplete(ProxyServlet.java:300)
+	at org.eclipse.jetty.client.ResponseNotifier.notifyComplete(ResponseNotifier.java:193)
+	at org.eclipse.jetty.client.ResponseNotifier.notifyComplete(ResponseNotifier.java:185)
+	at org.eclipse.jetty.client.HttpReceiver.terminateResponse(HttpReceiver.java:446)
+	at org.eclipse.jetty.client.HttpReceiver.terminateResponse(HttpReceiver.java:427)
+	at org.eclipse.jetty.client.HttpReceiver.responseContent(HttpReceiver.java:353)
+	at org.eclipse.jetty.client.http.HttpReceiverOverHTTP.content(HttpReceiverOverHTTP.java:256)
+	at org.eclipse.jetty.client.http.HttpReceiverOverHTTP.content(HttpReceiverOverHTTP.java:38)
+	at org.eclipse.jetty.http.HttpParser.parseContent(HttpParser.java:1424)
+	at org.eclipse.jetty.http.HttpParser.parseNext(HttpParser.java:1272)
+	at org.eclipse.jetty.client.http.HttpReceiverOverHTTP.parse(HttpReceiverOverHTTP.java:156)
+	at org.eclipse.jetty.client.http.HttpReceiverOverHTTP.process(HttpReceiverOverHTTP.java:117)
+	at org.eclipse.jetty.client.http.HttpReceiverOverHTTP.receive(HttpReceiverOverHTTP.java:69)
+	at org.eclipse.jetty.client.http.HttpChannelOverHTTP.receive(HttpChannelOverHTTP.java:89)
+	at org.eclipse.jetty.client.http.HttpConnectionOverHTTP.onFillable(HttpConnectionOverHTTP.java:122)
+	at org.eclipse.jetty.io.AbstractConnection$2.run(AbstractConnection.java:544)
+	at org.eclipse.jetty.util.thread.QueuedThreadPool.runJob(QueuedThreadPool.java:635)
+	at org.eclipse.jetty.util.thread.QueuedThreadPool$3.run(QueuedThreadPool.java:555)
+	at java.base/java.lang.Thread.run(Thread.java:834)
+2020-11-19 10:41:52,136[INFO ]: Exception while notifying listener org.eclipse.jetty.proxy.ProxyServlet$ProxyResponseListener@40fa84a2
+java.lang.IllegalStateException: Committed
+	at org.eclipse.jetty.server.Response.resetBuffer(Response.java:1243)
+	at javax.servlet.ServletResponseWrapper.resetBuffer(ServletResponseWrapper.java:241)
+	at org.eclipse.jetty.servlets.gzip.CompressedResponseWrapper.resetBuffer(CompressedResponseWrapper.java:274)
+	at org.eclipse.jetty.servlets.gzip.CompressedResponseWrapper.sendError(CompressedResponseWrapper.java:299)
+	at org.eclipse.jetty.proxy.AbstractProxyServlet.onProxyResponseFailure(AbstractProxyServlet.java:625)
+	at org.eclipse.jetty.proxy.ProxyServlet.onResponseFailure(ProxyServlet.java:175)
+	at org.eclipse.jetty.proxy.ProxyServlet$ProxyResponseListener.onComplete(ProxyServlet.java:300)
+	at org.eclipse.jetty.client.ResponseNotifier.notifyComplete(ResponseNotifier.java:193)
+	at org.eclipse.jetty.client.ResponseNotifier.notifyComplete(ResponseNotifier.java:185)
+	at org.eclipse.jetty.client.HttpReceiver.terminateResponse(HttpReceiver.java:446)
+	at org.eclipse.jetty.client.HttpReceiver.terminateResponse(HttpReceiver.java:427)
+	at org.eclipse.jetty.client.HttpReceiver.responseContent(HttpReceiver.java:353)
+	at org.eclipse.jetty.client.http.HttpReceiverOverHTTP.content(HttpReceiverOverHTTP.java:256)
+	at org.eclipse.jetty.client.http.HttpReceiverOverHTTP.content(HttpReceiverOverHTTP.java:38)
+	at org.eclipse.jetty.http.HttpParser.parseContent(HttpParser.java:1424)
+	at org.eclipse.jetty.http.HttpParser.parseNext(HttpParser.java:1272)
+	at org.eclipse.jetty.client.http.HttpReceiverOverHTTP.parse(HttpReceiverOverHTTP.java:156)
+	at org.eclipse.jetty.client.http.HttpReceiverOverHTTP.process(HttpReceiverOverHTTP.java:117)
+	at org.eclipse.jetty.client.http.HttpReceiverOverHTTP.receive(HttpReceiverOverHTTP.java:69)
+	at org.eclipse.jetty.client.http.HttpChannelOverHTTP.receive(HttpChannelOverHTTP.java:89)
+	at org.eclipse.jetty.client.http.HttpConnectionOverHTTP.onFillable(HttpConnectionOverHTTP.java:122)
+	at org.eclipse.jetty.io.AbstractConnection$2.run(AbstractConnection.java:544)
+	at org.eclipse.jetty.util.thread.QueuedThreadPool.runJob(QueuedThreadPool.java:635)
+	at org.eclipse.jetty.util.thread.QueuedThreadPool$3.run(QueuedThreadPool.java:555)
+	at java.base/java.lang.Thread.run(Thread.java:834)
+2020-11-19 10:41:52,136[INFO ]: Exception while notifying listener org.eclipse.jetty.proxy.ProxyServlet$ProxyResponseListener@519d0a4
+java.lang.IllegalStateException: Committed
+	at org.eclipse.jetty.server.Response.resetBuffer(Response.java:1243)
+	at javax.servlet.ServletResponseWrapper.resetBuffer(ServletResponseWrapper.java:241)
+	at org.eclipse.jetty.servlets.gzip.CompressedResponseWrapper.resetBuffer(CompressedResponseWrapper.java:274)
+	at org.eclipse.jetty.servlets.gzip.CompressedResponseWrapper.sendError(CompressedResponseWrapper.java:299)
+	at org.eclipse.jetty.proxy.AbstractProxyServlet.onProxyResponseFailure(AbstractProxyServlet.java:625)
+	at org.eclipse.jetty.proxy.ProxyServlet.onResponseFailure(ProxyServlet.java:175)
+	at org.eclipse.jetty.proxy.ProxyServlet$ProxyResponseListener.onComplete(ProxyServlet.java:300)
+	at org.eclipse.jetty.client.ResponseNotifier.notifyComplete(ResponseNotifier.java:193)
+	at org.eclipse.jetty.client.ResponseNotifier.notifyComplete(ResponseNotifier.java:185)
+	at org.eclipse.jetty.client.HttpReceiver.terminateResponse(HttpReceiver.java:446)
+	at org.eclipse.jetty.client.HttpReceiver.terminateResponse(HttpReceiver.java:427)
+	at org.eclipse.jetty.client.HttpReceiver.responseContent(HttpReceiver.java:353)
+	at org.eclipse.jetty.client.http.HttpReceiverOverHTTP.content(HttpReceiverOverHTTP.java:256)
+	at org.eclipse.jetty.client.http.HttpReceiverOverHTTP.content(HttpReceiverOverHTTP.java:38)
+	at org.eclipse.jetty.http.HttpParser.parseContent(HttpParser.java:1424)
+	at org.eclipse.jetty.http.HttpParser.parseNext(HttpParser.java:1272)
+	at org.eclipse.jetty.client.http.HttpReceiverOverHTTP.parse(HttpReceiverOverHTTP.java:156)
+	at org.eclipse.jetty.client.http.HttpReceiverOverHTTP.process(HttpReceiverOverHTTP.java:117)
+	at org.eclipse.jetty.client.http.HttpReceiverOverHTTP.receive(HttpReceiverOverHTTP.java:69)
+	at org.eclipse.jetty.client.http.HttpChannelOverHTTP.receive(HttpChannelOverHTTP.java:89)
+	at org.eclipse.jetty.client.http.HttpConnectionOverHTTP.onFillable(HttpConnectionOverHTTP.java:122)
+	at org.eclipse.jetty.io.AbstractConnection$2.run(AbstractConnection.java:544)
+	at org.eclipse.jetty.util.thread.QueuedThreadPool.runJob(QueuedThreadPool.java:635)
+	at org.eclipse.jetty.util.thread.QueuedThreadPool$3.run(QueuedThreadPool.java:555)
+	at java.base/java.lang.Thread.run(Thread.java:834)
+2020-11-19 10:41:52,831[INFO ]: Exception while notifying listener org.eclipse.jetty.proxy.ProxyServlet$ProxyResponseListener@3924dff5
+java.lang.IllegalStateException: Committed
+	at org.eclipse.jetty.server.Response.resetBuffer(Response.java:1243)
+	at javax.servlet.ServletResponseWrapper.resetBuffer(ServletResponseWrapper.java:241)
+	at org.eclipse.jetty.servlets.gzip.CompressedResponseWrapper.resetBuffer(CompressedResponseWrapper.java:274)
+	at org.eclipse.jetty.servlets.gzip.CompressedResponseWrapper.sendError(CompressedResponseWrapper.java:299)
+	at org.eclipse.jetty.proxy.AbstractProxyServlet.onProxyResponseFailure(AbstractProxyServlet.java:625)
+	at org.eclipse.jetty.proxy.ProxyServlet.onResponseFailure(ProxyServlet.java:175)
+	at org.eclipse.jetty.proxy.ProxyServlet$ProxyResponseListener.onComplete(ProxyServlet.java:300)
+	at org.eclipse.jetty.client.ResponseNotifier.notifyComplete(ResponseNotifier.java:193)
+	at org.eclipse.jetty.client.ResponseNotifier.notifyComplete(ResponseNotifier.java:185)
+	at org.eclipse.jetty.client.HttpReceiver.terminateResponse(HttpReceiver.java:446)
+	at org.eclipse.jetty.client.HttpReceiver.terminateResponse(HttpReceiver.java:427)
+	at org.eclipse.jetty.client.HttpReceiver.responseContent(HttpReceiver.java:353)
+	at org.eclipse.jetty.client.http.HttpReceiverOverHTTP.content(HttpReceiverOverHTTP.java:256)
+	at org.eclipse.jetty.client.http.HttpReceiverOverHTTP.content(HttpReceiverOverHTTP.java:38)
+	at org.eclipse.jetty.http.HttpParser.parseContent(HttpParser.java:1424)
+	at org.eclipse.jetty.http.HttpParser.parseNext(HttpParser.java:1272)
+	at org.eclipse.jetty.client.http.HttpReceiverOverHTTP.parse(HttpReceiverOverHTTP.java:156)
+	at org.eclipse.jetty.client.http.HttpReceiverOverHTTP.process(HttpReceiverOverHTTP.java:117)
+	at org.eclipse.jetty.client.http.HttpReceiverOverHTTP.receive(HttpReceiverOverHTTP.java:69)
+	at org.eclipse.jetty.client.http.HttpChannelOverHTTP.receive(HttpChannelOverHTTP.java:89)
+	at org.eclipse.jetty.client.http.HttpConnectionOverHTTP.onFillable(HttpConnectionOverHTTP.java:122)
+	at org.eclipse.jetty.io.AbstractConnection$2.run(AbstractConnection.java:544)
+	at org.eclipse.jetty.util.thread.QueuedThreadPool.runJob(QueuedThreadPool.java:635)
+	at org.eclipse.jetty.util.thread.QueuedThreadPool$3.run(QueuedThreadPool.java:555)
+	at java.base/java.lang.Thread.run(Thread.java:834)
+2020-11-19 10:41:52,747[INFO ]: Exception while notifying listener org.eclipse.jetty.proxy.ProxyServlet$ProxyResponseListener@2935847
+java.lang.IllegalStateException: Committed
+	at org.eclipse.jetty.server.Response.resetBuffer(Response.java:1243)
+	at javax.servlet.ServletResponseWrapper.resetBuffer(ServletResponseWrapper.java:241)
+	at org.eclipse.jetty.servlets.gzip.CompressedResponseWrapper.resetBuffer(CompressedResponseWrapper.java:274)
+	at org.eclipse.jetty.servlets.gzip.CompressedResponseWrapper.sendError(CompressedResponseWrapper.java:299)
+	at org.eclipse.jetty.proxy.AbstractProxyServlet.onProxyResponseFailure(AbstractProxyServlet.java:625)
+	at org.eclipse.jetty.proxy.ProxyServlet.onResponseFailure(ProxyServlet.java:175)
+	at org.eclipse.jetty.proxy.ProxyServlet$ProxyResponseListener.onComplete(ProxyServlet.java:300)
+	at org.eclipse.jetty.client.ResponseNotifier.notifyComplete(ResponseNotifier.java:193)
+	at org.eclipse.jetty.client.ResponseNotifier.notifyComplete(ResponseNotifier.java:185)
+	at org.eclipse.jetty.client.HttpReceiver.terminateResponse(HttpReceiver.java:446)
+	at org.eclipse.jetty.client.HttpReceiver.terminateResponse(HttpReceiver.java:427)
+	at org.eclipse.jetty.client.HttpReceiver.responseContent(HttpReceiver.java:353)
+	at org.eclipse.jetty.client.http.HttpReceiverOverHTTP.content(HttpReceiverOverHTTP.java:256)
+	at org.eclipse.jetty.client.http.HttpReceiverOverHTTP.content(HttpReceiverOverHTTP.java:38)
+	at org.eclipse.jetty.http.HttpParser.parseContent(HttpParser.java:1424)
+	at org.eclipse.jetty.http.HttpParser.parseNext(HttpParser.java:1272)
+	at org.eclipse.jetty.client.http.HttpReceiverOverHTTP.parse(HttpReceiverOverHTTP.java:156)
+	at org.eclipse.jetty.client.http.HttpReceiverOverHTTP.process(HttpReceiverOverHTTP.java:117)
+	at org.eclipse.jetty.client.http.HttpReceiverOverHTTP.receive(HttpReceiverOverHTTP.java:69)
+	at org.eclipse.jetty.client.http.HttpChannelOverHTTP.receive(HttpChannelOverHTTP.java:89)
+	at org.eclipse.jetty.client.http.HttpConnectionOverHTTP.onFillable(HttpConnectionOverHTTP.java:122)
+	at org.eclipse.jetty.io.AbstractConnection$2.run(AbstractConnection.java:544)
+	at org.eclipse.jetty.util.thread.QueuedThreadPool.runJob(QueuedThreadPool.java:635)
+	at org.eclipse.jetty.util.thread.QueuedThreadPool$3.run(QueuedThreadPool.java:555)
+	at java.base/java.lang.Thread.run(Thread.java:834)
+2020-11-19 10:41:52,738[INFO ]: Exception while notifying listener org.eclipse.jetty.proxy.ProxyServlet$ProxyResponseListener@5e5b76a9
+java.lang.IllegalStateException: Committed
+	at org.eclipse.jetty.server.Response.resetBuffer(Response.java:1243)
+	at javax.servlet.ServletResponseWrapper.resetBuffer(ServletResponseWrapper.java:241)
+	at org.eclipse.jetty.servlets.gzip.CompressedResponseWrapper.resetBuffer(CompressedResponseWrapper.java:274)
+	at org.eclipse.jetty.servlets.gzip.CompressedResponseWrapper.sendError(CompressedResponseWrapper.java:299)
+	at org.eclipse.jetty.proxy.AbstractProxyServlet.onProxyResponseFailure(AbstractProxyServlet.java:625)
+	at org.eclipse.jetty.proxy.ProxyServlet.onResponseFailure(ProxyServlet.java:175)
+	at org.eclipse.jetty.proxy.ProxyServlet$ProxyResponseListener.onComplete(ProxyServlet.java:300)
+	at org.eclipse.jetty.client.ResponseNotifier.notifyComplete(ResponseNotifier.java:193)
+	at org.eclipse.jetty.client.ResponseNotifier.notifyComplete(ResponseNotifier.java:185)
+	at org.eclipse.jetty.client.HttpReceiver.terminateResponse(HttpReceiver.java:446)
+	at org.eclipse.jetty.client.HttpReceiver.terminateResponse(HttpReceiver.java:427)
+	at org.eclipse.jetty.client.HttpReceiver.responseContent(HttpReceiver.java:353)
+	at org.eclipse.jetty.client.http.HttpReceiverOverHTTP.content(HttpReceiverOverHTTP.java:256)
+	at org.eclipse.jetty.client.http.HttpReceiverOverHTTP.content(HttpReceiverOverHTTP.java:38)
+	at org.eclipse.jetty.http.HttpParser.parseContent(HttpParser.java:1424)
+	at org.eclipse.jetty.http.HttpParser.parseNext(HttpParser.java:1272)
+	at org.eclipse.jetty.client.http.HttpReceiverOverHTTP.parse(HttpReceiverOverHTTP.java:156)
+	at org.eclipse.jetty.client.http.HttpReceiverOverHTTP.process(HttpReceiverOverHTTP.java:117)
+	at org.eclipse.jetty.client.http.HttpReceiverOverHTTP.receive(HttpReceiverOverHTTP.java:69)
+	at org.eclipse.jetty.client.http.HttpChannelOverHTTP.receive(HttpChannelOverHTTP.java:89)
+	at org.eclipse.jetty.client.http.HttpConnectionOverHTTP.onFillable(HttpConnectionOverHTTP.java:122)
+	at org.eclipse.jetty.io.AbstractConnection$2.run(AbstractConnection.java:544)
+	at org.eclipse.jetty.util.thread.QueuedThreadPool.runJob(QueuedThreadPool.java:635)
+	at org.eclipse.jetty.util.thread.QueuedThreadPool$3.run(QueuedThreadPool.java:555)
+	at java.base/java.lang.Thread.run(Thread.java:834)
+2020-11-19 10:41:52,845[INFO ]: Exception while notifying listener org.eclipse.jetty.proxy.ProxyServlet$ProxyResponseListener@66508795
+java.lang.IllegalStateException: Committed
+	at org.eclipse.jetty.server.Response.resetBuffer(Response.java:1243)
+	at javax.servlet.ServletResponseWrapper.resetBuffer(ServletResponseWrapper.java:241)
+	at org.eclipse.jetty.servlets.gzip.CompressedResponseWrapper.resetBuffer(CompressedResponseWrapper.java:274)
+	at org.eclipse.jetty.servlets.gzip.CompressedResponseWrapper.sendError(CompressedResponseWrapper.java:299)
+	at org.eclipse.jetty.proxy.AbstractProxyServlet.onProxyResponseFailure(AbstractProxyServlet.java:625)
+	at org.eclipse.jetty.proxy.ProxyServlet.onResponseFailure(ProxyServlet.java:175)
+	at org.eclipse.jetty.proxy.ProxyServlet$ProxyResponseListener.onComplete(ProxyServlet.java:300)
+	at org.eclipse.jetty.client.ResponseNotifier.notifyComplete(ResponseNotifier.java:193)
+	at org.eclipse.jetty.client.ResponseNotifier.notifyComplete(ResponseNotifier.java:185)
+	at org.eclipse.jetty.client.HttpReceiver.terminateResponse(HttpReceiver.java:446)
+	at org.eclipse.jetty.client.HttpReceiver.terminateResponse(HttpReceiver.java:427)
+	at org.eclipse.jetty.client.HttpReceiver.responseContent(HttpReceiver.java:353)
+	at org.eclipse.jetty.client.http.HttpReceiverOverHTTP.content(HttpReceiverOverHTTP.java:256)
+	at org.eclipse.jetty.client.http.HttpReceiverOverHTTP.content(HttpReceiverOverHTTP.java:38)
+	at org.eclipse.jetty.http.HttpParser.parseContent(HttpParser.java:1424)
+	at org.eclipse.jetty.http.HttpParser.parseNext(HttpParser.java:1272)
+	at org.eclipse.jetty.client.http.HttpReceiverOverHTTP.parse(HttpReceiverOverHTTP.java:156)
+	at org.eclipse.jetty.client.http.HttpReceiverOverHTTP.process(HttpReceiverOverHTTP.java:117)
+	at org.eclipse.jetty.client.http.HttpReceiverOverHTTP.receive(HttpReceiverOverHTTP.java:69)
+	at org.eclipse.jetty.client.http.HttpChannelOverHTTP.receive(HttpChannelOverHTTP.java:89)
+	at org.eclipse.jetty.client.http.HttpConnectionOverHTTP.onFillable(HttpConnectionOverHTTP.java:122)
+	at org.eclipse.jetty.io.AbstractConnection$2.run(AbstractConnection.java:544)
+	at org.eclipse.jetty.util.thread.QueuedThreadPool.runJob(QueuedThreadPool.java:635)
+	at org.eclipse.jetty.util.thread.QueuedThreadPool$3.run(QueuedThreadPool.java:555)
+	at java.base/java.lang.Thread.run(Thread.java:834)
+2020-11-19 10:41:52,842[INFO ]: Exception while notifying listener org.eclipse.jetty.proxy.ProxyServlet$ProxyResponseListener@46d1a8bb
+java.lang.IllegalStateException: Committed
+	at org.eclipse.jetty.server.Response.resetBuffer(Response.java:1243)
+	at javax.servlet.ServletResponseWrapper.resetBuffer(ServletResponseWrapper.java:241)
+	at org.eclipse.jetty.servlets.gzip.CompressedResponseWrapper.resetBuffer(CompressedResponseWrapper.java:274)
+	at org.eclipse.jetty.servlets.gzip.CompressedResponseWrapper.sendError(CompressedResponseWrapper.java:299)
+	at org.eclipse.jetty.proxy.AbstractProxyServlet.onProxyResponseFailure(AbstractProxyServlet.java:625)
+	at org.eclipse.jetty.proxy.ProxyServlet.onResponseFailure(ProxyServlet.java:175)
+	at org.eclipse.jetty.proxy.ProxyServlet$ProxyResponseListener.onComplete(ProxyServlet.java:300)
+	at org.eclipse.jetty.client.ResponseNotifier.notifyComplete(ResponseNotifier.java:193)
+	at org.eclipse.jetty.client.ResponseNotifier.notifyComplete(ResponseNotifier.java:185)
+	at org.eclipse.jetty.client.HttpReceiver.terminateResponse(HttpReceiver.java:446)
+	at org.eclipse.jetty.client.HttpReceiver.terminateResponse(HttpReceiver.java:427)
+	at org.eclipse.jetty.client.HttpReceiver.responseContent(HttpReceiver.java:353)
+	at org.eclipse.jetty.client.http.HttpReceiverOverHTTP.content(HttpReceiverOverHTTP.java:256)
+	at org.eclipse.jetty.client.http.HttpReceiverOverHTTP.content(HttpReceiverOverHTTP.java:38)
+	at org.eclipse.jetty.http.HttpParser.parseContent(HttpParser.java:1424)
+	at org.eclipse.jetty.http.HttpParser.parseNext(HttpParser.java:1272)
+	at org.eclipse.jetty.client.http.HttpReceiverOverHTTP.parse(HttpReceiverOverHTTP.java:156)
+	at org.eclipse.jetty.client.http.HttpReceiverOverHTTP.process(HttpReceiverOverHTTP.java:117)
+	at org.eclipse.jetty.client.http.HttpReceiverOverHTTP.receive(HttpReceiverOverHTTP.java:69)
+	at org.eclipse.jetty.client.http.HttpChannelOverHTTP.receive(HttpChannelOverHTTP.java:89)
+	at org.eclipse.jetty.client.http.HttpConnectionOverHTTP.onFillable(HttpConnectionOverHTTP.java:122)
+	at org.eclipse.jetty.io.AbstractConnection$2.run(AbstractConnection.java:544)
+	at org.eclipse.jetty.util.thread.QueuedThreadPool.runJob(QueuedThreadPool.java:635)
+	at org.eclipse.jetty.util.thread.QueuedThreadPool$3.run(QueuedThreadPool.java:555)
+	at java.base/java.lang.Thread.run(Thread.java:834)
+2020-11-19 10:42:41,712[INFO ]: Logging initialized @384ms
+2020-11-19 10:42:41,865[INFO ]: jetty-9.2.14.v20151106
+2020-11-19 10:42:41,939[INFO ]: Initializing Couch Configuration
+2020-11-19 10:42:41,942[INFO ]: RNG: NativePRNG
+2020-11-19 10:42:41,945[INFO ]: Document database configured: http://127.0.0.1:5984/aks/
+2020-11-19 10:42:41,946[INFO ]: User database configured: http://127.0.0.1:5984/_users/
+2020-11-19 10:42:42,042[INFO ]: User design document. Disk: 3 Db: 3 Update Required: true
+2020-11-19 10:42:42,085[INFO ]: Reading properties from /home/adamstone/Desktop/nunaliitTraining/aks/./config/multimedia.properties
+2020-11-19 10:42:42,097[INFO ]: Reading properties from /home/adamstone/Desktop/nunaliitTraining/aks/./config/sensitive.properties
+2020-11-19 10:42:42,097[INFO ]: Reading properties from /home/adamstone/Desktop/nunaliitTraining/aks/./config/mail.properties
+2020-11-19 10:42:42,113[INFO ]: sendUploadMailNotification: false
+2020-11-19 10:42:42,126[INFO ]: sendUploadMailNotification: false
+2020-11-19 10:42:42,127[INFO ]: Reading properties from /home/adamstone/Desktop/nunaliitTraining/aks/./config/upload.properties
+2020-11-19 10:42:42,128[INFO ]: Repository directory is /home/adamstone/Desktop/nunaliitTraining/aks/./media
+2020-11-19 10:42:42,134[INFO ]: uploadOriginalFiles: true
+2020-11-19 10:42:42,140[INFO ]: uploadOriginalFiles: true
+2020-11-19 10:42:42,160[INFO ]: Start database change monitor thread
+2020-11-19 10:42:42,166[INFO ]: Submission database is not enabled
+2020-11-19 10:42:42,167[INFO ]: Start upload worker thread
+2020-11-19 10:42:42,180[INFO ]: Vetter daily notifications set to start at: 2020-11-20 00:00:00
+2020-11-19 10:42:42,194[INFO ]: Starting DB change listener thread
+2020-11-19 10:42:42,273[INFO ]: Starting DB change listener thread
+2020-11-19 10:42:42,275[INFO ]: Starting DB change listener thread
+2020-11-19 10:42:42,293[INFO ]: Completed Couch Configuration
+2020-11-19 10:42:42,293[INFO ]: Starting DB change listener thread
+2020-11-19 10:42:42,336[INFO ]: Start date worker thread
+2020-11-19 10:42:42,336[INFO ]: Initialization started
+2020-11-19 10:42:42,338[INFO ]: Initialization finished
+2020-11-19 10:42:42,338[INFO ]: Initialization started
+2020-11-19 10:42:42,338[INFO ]: Initialization finished
+2020-11-19 10:42:42,338[INFO ]: Initialization started
+2020-11-19 10:42:42,338[INFO ]: Initialization finished
+2020-11-19 10:42:42,342[INFO ]: SubmissionServlet servlet initialization - start
+2020-11-19 10:42:42,343[INFO ]: SubmissionServlet servlet initialization - completed
+2020-11-19 10:42:42,343[INFO ]: UserServlet servlet initialization - start
+2020-11-19 10:42:42,377[INFO ]: UserServlet servlet initialization - completed
+2020-11-19 10:42:42,383[INFO ]: Upload Property upload.repository.dir = /home/adamstone/Desktop/nunaliitTraining/aks/./media
+2020-11-19 10:42:42,383[INFO ]: Upload Property atlas.name = aks
+2020-11-19 10:42:42,384[INFO ]: OnUploadedListener: UploadListener
+2020-11-19 10:42:42,385[INFO ]: Started o.e.j.s.ServletContextHandler@5acf93bb{/,null,AVAILABLE}
+2020-11-19 10:42:42,387[INFO ]: Start agreement worker thread
+2020-11-19 10:42:42,421[INFO ]: Started ServerConnector@5b03b9fe{HTTP/1.1}{0.0.0.0:8080}
+2020-11-19 10:42:42,421[INFO ]: Started @1095ms
+2020-11-19 10:42:42,423[INFO ]: New user agreement detected: 1-4a74d27edbad7ef9ac61be9d9adbb360
+2020-11-19 10:42:42,436[INFO ]: User agreement is not enabled. Skip.
+2020-11-19 10:45:50,293[INFO ]: Logging initialized @457ms
+2020-11-19 10:45:50,441[INFO ]: jetty-9.2.14.v20151106
+2020-11-19 10:45:50,509[INFO ]: Initializing Couch Configuration
+2020-11-19 10:45:50,512[INFO ]: RNG: NativePRNG
+2020-11-19 10:45:50,514[INFO ]: Document database configured: http://127.0.0.1:5984/aks/
+2020-11-19 10:45:50,515[INFO ]: User database configured: http://127.0.0.1:5984/_users/
+2020-11-19 10:45:50,638[INFO ]: User design document. Disk: 3 Db: 3 Update Required: true
+2020-11-19 10:45:50,679[INFO ]: Reading properties from /home/adamstone/Desktop/nunaliitTraining/aks/./config/multimedia.properties
+2020-11-19 10:45:50,691[INFO ]: Reading properties from /home/adamstone/Desktop/nunaliitTraining/aks/./config/sensitive.properties
+2020-11-19 10:45:50,692[INFO ]: Reading properties from /home/adamstone/Desktop/nunaliitTraining/aks/./config/mail.properties
+2020-11-19 10:45:50,715[INFO ]: sendUploadMailNotification: false
+2020-11-19 10:45:50,723[INFO ]: sendUploadMailNotification: false
+2020-11-19 10:45:50,724[INFO ]: Reading properties from /home/adamstone/Desktop/nunaliitTraining/aks/./config/upload.properties
+2020-11-19 10:45:50,725[INFO ]: Repository directory is /home/adamstone/Desktop/nunaliitTraining/aks/./media
+2020-11-19 10:45:50,732[INFO ]: uploadOriginalFiles: true
+2020-11-19 10:45:50,739[INFO ]: uploadOriginalFiles: true
+2020-11-19 10:45:50,754[INFO ]: Start database change monitor thread
+2020-11-19 10:45:50,757[INFO ]: Submission database is not enabled
+2020-11-19 10:45:50,758[INFO ]: Start upload worker thread
+2020-11-19 10:45:50,770[INFO ]: Vetter daily notifications set to start at: 2020-11-20 00:00:00
+2020-11-19 10:45:50,782[INFO ]: Starting DB change listener thread
+2020-11-19 10:45:50,893[INFO ]: Starting DB change listener thread
+2020-11-19 10:45:50,894[INFO ]: Starting DB change listener thread
+2020-11-19 10:45:50,947[INFO ]: Completed Couch Configuration
+2020-11-19 10:45:50,947[INFO ]: Starting DB change listener thread
+2020-11-19 10:45:50,966[INFO ]: Start date worker thread
+2020-11-19 10:45:50,966[INFO ]: Initialization started
+2020-11-19 10:45:50,967[INFO ]: Initialization finished
+2020-11-19 10:45:50,967[INFO ]: Initialization started
+2020-11-19 10:45:50,967[INFO ]: Initialization finished
+2020-11-19 10:45:50,967[INFO ]: Initialization started
+2020-11-19 10:45:50,967[INFO ]: Initialization finished
+2020-11-19 10:45:50,970[INFO ]: SubmissionServlet servlet initialization - start
+2020-11-19 10:45:50,972[INFO ]: SubmissionServlet servlet initialization - completed
+2020-11-19 10:45:50,972[INFO ]: UserServlet servlet initialization - start
+2020-11-19 10:45:50,981[INFO ]: UserServlet servlet initialization - completed
+2020-11-19 10:45:50,993[INFO ]: Upload Property upload.repository.dir = /home/adamstone/Desktop/nunaliitTraining/aks/./media
+2020-11-19 10:45:50,994[INFO ]: Upload Property atlas.name = aks
+2020-11-19 10:45:50,994[INFO ]: OnUploadedListener: UploadListener
+2020-11-19 10:45:51,001[INFO ]: Start agreement worker thread
+2020-11-19 10:45:51,024[INFO ]: Started o.e.j.s.ServletContextHandler@5acf93bb{/,null,AVAILABLE}
+2020-11-19 10:45:51,043[INFO ]: New user agreement detected: 1-4a74d27edbad7ef9ac61be9d9adbb360
+2020-11-19 10:45:51,050[INFO ]: User agreement is not enabled. Skip.
+2020-11-19 10:45:51,064[INFO ]: Started ServerConnector@5b03b9fe{HTTP/1.1}{0.0.0.0:8080}
+2020-11-19 10:45:51,066[INFO ]: Started @1231ms
+2020-11-19 10:47:57,807[INFO ]: Logging initialized @356ms
+2020-11-19 10:47:57,948[INFO ]: jetty-9.2.14.v20151106
+2020-11-19 10:47:58,041[INFO ]: Initializing Couch Configuration
+2020-11-19 10:47:58,044[INFO ]: RNG: NativePRNG
+2020-11-19 10:47:58,047[INFO ]: Document database configured: http://127.0.0.1:5984/aks/
+2020-11-19 10:47:58,049[INFO ]: User database configured: http://127.0.0.1:5984/_users/
+2020-11-19 10:47:58,146[INFO ]: User design document. Disk: 3 Db: 3 Update Required: true
+2020-11-19 10:47:58,188[INFO ]: Reading properties from /home/adamstone/Desktop/nunaliitTraining/aks/./config/multimedia.properties
+2020-11-19 10:47:58,202[INFO ]: Reading properties from /home/adamstone/Desktop/nunaliitTraining/aks/./config/sensitive.properties
+2020-11-19 10:47:58,204[INFO ]: Reading properties from /home/adamstone/Desktop/nunaliitTraining/aks/./config/mail.properties
+2020-11-19 10:47:58,225[INFO ]: sendUploadMailNotification: false
+2020-11-19 10:47:58,237[INFO ]: sendUploadMailNotification: false
+2020-11-19 10:47:58,240[INFO ]: Reading properties from /home/adamstone/Desktop/nunaliitTraining/aks/./config/upload.properties
+2020-11-19 10:47:58,241[INFO ]: Repository directory is /home/adamstone/Desktop/nunaliitTraining/aks/./media
+2020-11-19 10:47:58,248[INFO ]: uploadOriginalFiles: true
+2020-11-19 10:47:58,251[INFO ]: uploadOriginalFiles: true
+2020-11-19 10:47:58,270[INFO ]: Start database change monitor thread
+2020-11-19 10:47:58,274[INFO ]: Start upload worker thread
+2020-11-19 10:47:58,274[INFO ]: Submission database is not enabled
+2020-11-19 10:47:58,284[INFO ]: Vetter daily notifications set to start at: 2020-11-20 00:00:00
+2020-11-19 10:47:58,307[INFO ]: Starting DB change listener thread
+2020-11-19 10:47:58,422[INFO ]: Starting DB change listener thread
+2020-11-19 10:47:58,423[INFO ]: Starting DB change listener thread
+2020-11-19 10:47:58,475[INFO ]: Completed Couch Configuration
+2020-11-19 10:47:58,475[INFO ]: Starting DB change listener thread
+2020-11-19 10:47:58,490[INFO ]: Initialization started
+2020-11-19 10:47:58,490[INFO ]: Initialization finished
+2020-11-19 10:47:58,490[INFO ]: Initialization started
+2020-11-19 10:47:58,491[INFO ]: Initialization finished
+2020-11-19 10:47:58,491[INFO ]: Initialization started
+2020-11-19 10:47:58,491[INFO ]: Initialization finished
+2020-11-19 10:47:58,496[INFO ]: SubmissionServlet servlet initialization - start
+2020-11-19 10:47:58,497[INFO ]: Start date worker thread
+2020-11-19 10:47:58,499[INFO ]: SubmissionServlet servlet initialization - completed
+2020-11-19 10:47:58,499[INFO ]: UserServlet servlet initialization - start
+2020-11-19 10:47:58,521[INFO ]: UserServlet servlet initialization - completed
+2020-11-19 10:47:58,535[INFO ]: Upload Property upload.repository.dir = /home/adamstone/Desktop/nunaliitTraining/aks/./media
+2020-11-19 10:47:58,535[INFO ]: Upload Property atlas.name = aks
+2020-11-19 10:47:58,535[INFO ]: OnUploadedListener: UploadListener
+2020-11-19 10:47:58,536[INFO ]: Start agreement worker thread
+2020-11-19 10:47:58,544[INFO ]: Started o.e.j.s.ServletContextHandler@5acf93bb{/,null,AVAILABLE}
+2020-11-19 10:47:58,579[INFO ]: Started ServerConnector@5b03b9fe{HTTP/1.1}{0.0.0.0:8080}
+2020-11-19 10:47:58,580[INFO ]: Started @1131ms
+2020-11-19 10:47:58,601[INFO ]: New user agreement detected: 1-4a74d27edbad7ef9ac61be9d9adbb360
+2020-11-19 10:47:58,604[INFO ]: User agreement is not enabled. Skip.
+2020-11-19 10:50:59,092[INFO ]: Logging initialized @374ms
+2020-11-19 10:50:59,245[INFO ]: jetty-9.2.14.v20151106
+2020-11-19 10:50:59,333[INFO ]: Initializing Couch Configuration
+2020-11-19 10:50:59,335[INFO ]: RNG: NativePRNG
+2020-11-19 10:50:59,351[INFO ]: Document database configured: http://127.0.0.1:5984/aks/
+2020-11-19 10:50:59,353[INFO ]: User database configured: http://127.0.0.1:5984/_users/
+2020-11-19 10:50:59,437[INFO ]: User design document. Disk: 3 Db: 3 Update Required: true
+2020-11-19 10:50:59,477[INFO ]: Reading properties from /home/adamstone/Desktop/nunaliitTraining/aks/./config/multimedia.properties
+2020-11-19 10:50:59,490[INFO ]: Reading properties from /home/adamstone/Desktop/nunaliitTraining/aks/./config/sensitive.properties
+2020-11-19 10:50:59,490[INFO ]: Reading properties from /home/adamstone/Desktop/nunaliitTraining/aks/./config/mail.properties
+2020-11-19 10:50:59,509[INFO ]: sendUploadMailNotification: false
+2020-11-19 10:50:59,522[INFO ]: sendUploadMailNotification: false
+2020-11-19 10:50:59,523[INFO ]: Reading properties from /home/adamstone/Desktop/nunaliitTraining/aks/./config/upload.properties
+2020-11-19 10:50:59,524[INFO ]: Repository directory is /home/adamstone/Desktop/nunaliitTraining/aks/./media
+2020-11-19 10:50:59,531[INFO ]: uploadOriginalFiles: true
+2020-11-19 10:50:59,536[INFO ]: uploadOriginalFiles: true
+2020-11-19 10:50:59,555[INFO ]: Start database change monitor thread
+2020-11-19 10:50:59,561[INFO ]: Submission database is not enabled
+2020-11-19 10:50:59,561[INFO ]: Start upload worker thread
+2020-11-19 10:50:59,569[INFO ]: Vetter daily notifications set to start at: 2020-11-20 00:00:00
+2020-11-19 10:50:59,599[INFO ]: Starting DB change listener thread
+2020-11-19 10:50:59,707[INFO ]: Starting DB change listener thread
+2020-11-19 10:50:59,708[INFO ]: Starting DB change listener thread
+2020-11-19 10:50:59,749[INFO ]: Completed Couch Configuration
+2020-11-19 10:50:59,749[INFO ]: Starting DB change listener thread
+2020-11-19 10:50:59,768[INFO ]: Initialization started
+2020-11-19 10:50:59,768[INFO ]: Initialization finished
+2020-11-19 10:50:59,768[INFO ]: Start date worker thread
+2020-11-19 10:50:59,768[INFO ]: Initialization started
+2020-11-19 10:50:59,769[INFO ]: Initialization finished
+2020-11-19 10:50:59,769[INFO ]: Initialization started
+2020-11-19 10:50:59,769[INFO ]: Initialization finished
+2020-11-19 10:50:59,777[INFO ]: SubmissionServlet servlet initialization - start
+2020-11-19 10:50:59,778[INFO ]: SubmissionServlet servlet initialization - completed
+2020-11-19 10:50:59,783[INFO ]: UserServlet servlet initialization - start
+2020-11-19 10:50:59,843[INFO ]: UserServlet servlet initialization - completed
+2020-11-19 10:50:59,843[INFO ]: Start agreement worker thread
+2020-11-19 10:50:59,852[INFO ]: Upload Property upload.repository.dir = /home/adamstone/Desktop/nunaliitTraining/aks/./media
+2020-11-19 10:50:59,852[INFO ]: Upload Property atlas.name = aks
+2020-11-19 10:50:59,852[INFO ]: OnUploadedListener: UploadListener
+2020-11-19 10:50:59,853[INFO ]: Started o.e.j.s.ServletContextHandler@5acf93bb{/,null,AVAILABLE}
+2020-11-19 10:50:59,861[INFO ]: New user agreement detected: 1-4a74d27edbad7ef9ac61be9d9adbb360
+2020-11-19 10:50:59,890[INFO ]: User agreement is not enabled. Skip.
+2020-11-19 10:50:59,893[INFO ]: Started ServerConnector@5b03b9fe{HTTP/1.1}{0.0.0.0:8080}
+2020-11-19 10:50:59,893[INFO ]: Started @1178ms
+2020-11-19 10:54:45,271[INFO ]: Logging initialized @414ms
+2020-11-19 10:54:45,431[INFO ]: jetty-9.2.14.v20151106
+2020-11-19 10:54:45,540[INFO ]: Initializing Couch Configuration
+2020-11-19 10:54:45,542[INFO ]: RNG: NativePRNG
+2020-11-19 10:54:45,544[INFO ]: Document database configured: http://127.0.0.1:5984/aks/
+2020-11-19 10:54:45,545[INFO ]: User database configured: http://127.0.0.1:5984/_users/
+2020-11-19 10:54:45,626[INFO ]: User design document. Disk: 3 Db: 3 Update Required: true
+2020-11-19 10:54:45,670[INFO ]: Reading properties from /home/adamstone/Desktop/nunaliitTraining/aks/./config/multimedia.properties
+2020-11-19 10:54:45,687[INFO ]: Reading properties from /home/adamstone/Desktop/nunaliitTraining/aks/./config/sensitive.properties
+2020-11-19 10:54:45,687[INFO ]: Reading properties from /home/adamstone/Desktop/nunaliitTraining/aks/./config/mail.properties
+2020-11-19 10:54:45,706[INFO ]: sendUploadMailNotification: false
+2020-11-19 10:54:45,715[INFO ]: sendUploadMailNotification: false
+2020-11-19 10:54:45,716[INFO ]: Reading properties from /home/adamstone/Desktop/nunaliitTraining/aks/./config/upload.properties
+2020-11-19 10:54:45,717[INFO ]: Repository directory is /home/adamstone/Desktop/nunaliitTraining/aks/./media
+2020-11-19 10:54:45,730[INFO ]: uploadOriginalFiles: true
+2020-11-19 10:54:45,734[INFO ]: uploadOriginalFiles: true
+2020-11-19 10:54:45,752[INFO ]: Start database change monitor thread
+2020-11-19 10:54:45,756[INFO ]: Start upload worker thread
+2020-11-19 10:54:45,756[INFO ]: Submission database is not enabled
+2020-11-19 10:54:45,769[INFO ]: Vetter daily notifications set to start at: 2020-11-20 00:00:00
+2020-11-19 10:54:45,787[INFO ]: Starting DB change listener thread
+2020-11-19 10:54:45,876[INFO ]: Starting DB change listener thread
+2020-11-19 10:54:45,877[INFO ]: Starting DB change listener thread
+2020-11-19 10:54:45,930[INFO ]: Completed Couch Configuration
+2020-11-19 10:54:45,930[INFO ]: Starting DB change listener thread
+2020-11-19 10:54:45,963[INFO ]: Start date worker thread
+2020-11-19 10:54:45,963[INFO ]: Initialization started
+2020-11-19 10:54:45,963[INFO ]: Initialization finished
+2020-11-19 10:54:45,963[INFO ]: Initialization started
+2020-11-19 10:54:45,963[INFO ]: Initialization finished
+2020-11-19 10:54:45,964[INFO ]: Initialization started
+2020-11-19 10:54:45,964[INFO ]: Initialization finished
+2020-11-19 10:54:45,966[INFO ]: SubmissionServlet servlet initialization - start
+2020-11-19 10:54:45,968[INFO ]: SubmissionServlet servlet initialization - completed
+2020-11-19 10:54:45,968[INFO ]: UserServlet servlet initialization - start
+2020-11-19 10:54:46,018[INFO ]: UserServlet servlet initialization - completed
+2020-11-19 10:54:46,019[INFO ]: Start agreement worker thread
+2020-11-19 10:54:46,030[INFO ]: Upload Property upload.repository.dir = /home/adamstone/Desktop/nunaliitTraining/aks/./media
+2020-11-19 10:54:46,030[INFO ]: Upload Property atlas.name = aks
+2020-11-19 10:54:46,031[INFO ]: OnUploadedListener: UploadListener
+2020-11-19 10:54:46,037[INFO ]: Started o.e.j.s.ServletContextHandler@5acf93bb{/,null,AVAILABLE}
+2020-11-19 10:54:46,048[INFO ]: Started ServerConnector@5b03b9fe{HTTP/1.1}{0.0.0.0:8080}
+2020-11-19 10:54:46,048[INFO ]: Started @1202ms
+2020-11-19 10:54:46,051[INFO ]: New user agreement detected: 1-4a74d27edbad7ef9ac61be9d9adbb360
+2020-11-19 10:54:46,069[INFO ]: User agreement is not enabled. Skip.
+2020-11-19 10:56:29,124[INFO ]: Logging initialized @390ms
+2020-11-19 10:56:29,259[INFO ]: jetty-9.2.14.v20151106
+2020-11-19 10:56:29,339[INFO ]: Initializing Couch Configuration
+2020-11-19 10:56:29,341[INFO ]: RNG: NativePRNG
+2020-11-19 10:56:29,344[INFO ]: Document database configured: http://127.0.0.1:5984/aks/
+2020-11-19 10:56:29,345[INFO ]: User database configured: http://127.0.0.1:5984/_users/
+2020-11-19 10:56:29,442[INFO ]: User design document. Disk: 3 Db: 3 Update Required: true
+2020-11-19 10:56:29,476[INFO ]: Reading properties from /home/adamstone/Desktop/nunaliitTraining/aks/./config/multimedia.properties
+2020-11-19 10:56:29,490[INFO ]: Reading properties from /home/adamstone/Desktop/nunaliitTraining/aks/./config/sensitive.properties
+2020-11-19 10:56:29,490[INFO ]: Reading properties from /home/adamstone/Desktop/nunaliitTraining/aks/./config/mail.properties
+2020-11-19 10:56:29,511[INFO ]: sendUploadMailNotification: false
+2020-11-19 10:56:29,523[INFO ]: sendUploadMailNotification: false
+2020-11-19 10:56:29,524[INFO ]: Reading properties from /home/adamstone/Desktop/nunaliitTraining/aks/./config/upload.properties
+2020-11-19 10:56:29,525[INFO ]: Repository directory is /home/adamstone/Desktop/nunaliitTraining/aks/./media
+2020-11-19 10:56:29,532[INFO ]: uploadOriginalFiles: true
+2020-11-19 10:56:29,540[INFO ]: uploadOriginalFiles: true
+2020-11-19 10:56:29,560[INFO ]: Start database change monitor thread
+2020-11-19 10:56:29,567[INFO ]: Submission database is not enabled
+2020-11-19 10:56:29,568[INFO ]: Start upload worker thread
+2020-11-19 10:56:29,581[INFO ]: Vetter daily notifications set to start at: 2020-11-20 00:00:00
+2020-11-19 10:56:29,594[INFO ]: Starting DB change listener thread
+2020-11-19 10:56:29,710[INFO ]: Starting DB change listener thread
+2020-11-19 10:56:29,711[INFO ]: Starting DB change listener thread
+2020-11-19 10:56:29,719[INFO ]: Completed Couch Configuration
+2020-11-19 10:56:29,719[INFO ]: Starting DB change listener thread
+2020-11-19 10:56:29,759[INFO ]: Initialization started
+2020-11-19 10:56:29,759[INFO ]: Initialization finished
+2020-11-19 10:56:29,759[INFO ]: Initialization started
+2020-11-19 10:56:29,759[INFO ]: Initialization finished
+2020-11-19 10:56:29,759[INFO ]: Initialization started
+2020-11-19 10:56:29,759[INFO ]: Initialization finished
+2020-11-19 10:56:29,761[INFO ]: Start date worker thread
+2020-11-19 10:56:29,764[INFO ]: SubmissionServlet servlet initialization - start
+2020-11-19 10:56:29,765[INFO ]: SubmissionServlet servlet initialization - completed
+2020-11-19 10:56:29,766[INFO ]: UserServlet servlet initialization - start
+2020-11-19 10:56:29,786[INFO ]: UserServlet servlet initialization - completed
+2020-11-19 10:56:29,786[INFO ]: Start agreement worker thread
+2020-11-19 10:56:29,798[INFO ]: Upload Property upload.repository.dir = /home/adamstone/Desktop/nunaliitTraining/aks/./media
+2020-11-19 10:56:29,799[INFO ]: Upload Property atlas.name = aks
+2020-11-19 10:56:29,812[INFO ]: OnUploadedListener: UploadListener
+2020-11-19 10:56:29,817[INFO ]: Started o.e.j.s.ServletContextHandler@5acf93bb{/,null,AVAILABLE}
+2020-11-19 10:56:29,844[INFO ]: Started ServerConnector@5b03b9fe{HTTP/1.1}{0.0.0.0:8080}
+2020-11-19 10:56:29,844[INFO ]: Started @1114ms
+2020-11-19 10:56:29,850[INFO ]: New user agreement detected: 1-4a74d27edbad7ef9ac61be9d9adbb360
+2020-11-19 10:56:29,855[INFO ]: User agreement is not enabled. Skip.
+2020-11-19 10:59:47,034[INFO ]: Logging initialized @394ms
+2020-11-19 10:59:47,186[INFO ]: jetty-9.2.14.v20151106
+2020-11-19 10:59:47,288[INFO ]: Initializing Couch Configuration
+2020-11-19 10:59:47,291[INFO ]: RNG: NativePRNG
+2020-11-19 10:59:47,293[INFO ]: Document database configured: http://127.0.0.1:5984/aks/
+2020-11-19 10:59:47,294[INFO ]: User database configured: http://127.0.0.1:5984/_users/
+2020-11-19 10:59:47,413[INFO ]: User design document. Disk: 3 Db: 3 Update Required: true
+2020-11-19 10:59:47,454[INFO ]: Reading properties from /home/adamstone/Desktop/nunaliitTraining/aks/./config/multimedia.properties
+2020-11-19 10:59:47,468[INFO ]: Reading properties from /home/adamstone/Desktop/nunaliitTraining/aks/./config/sensitive.properties
+2020-11-19 10:59:47,468[INFO ]: Reading properties from /home/adamstone/Desktop/nunaliitTraining/aks/./config/mail.properties
+2020-11-19 10:59:47,493[INFO ]: sendUploadMailNotification: false
+2020-11-19 10:59:47,505[INFO ]: sendUploadMailNotification: false
+2020-11-19 10:59:47,506[INFO ]: Reading properties from /home/adamstone/Desktop/nunaliitTraining/aks/./config/upload.properties
+2020-11-19 10:59:47,508[INFO ]: Repository directory is /home/adamstone/Desktop/nunaliitTraining/aks/./media
+2020-11-19 10:59:47,518[INFO ]: uploadOriginalFiles: true
+2020-11-19 10:59:47,522[INFO ]: uploadOriginalFiles: true
+2020-11-19 10:59:47,545[INFO ]: Start database change monitor thread
+2020-11-19 10:59:47,556[INFO ]: Submission database is not enabled
+2020-11-19 10:59:47,556[INFO ]: Start upload worker thread
+2020-11-19 10:59:47,574[INFO ]: Vetter daily notifications set to start at: 2020-11-20 00:00:00
+2020-11-19 10:59:47,583[INFO ]: Starting DB change listener thread
+2020-11-19 10:59:47,688[INFO ]: Starting DB change listener thread
+2020-11-19 10:59:47,689[INFO ]: Starting DB change listener thread
+2020-11-19 10:59:47,727[INFO ]: Completed Couch Configuration
+2020-11-19 10:59:47,729[INFO ]: Starting DB change listener thread
+2020-11-19 10:59:47,742[INFO ]: Start date worker thread
+2020-11-19 10:59:47,743[INFO ]: Initialization started
+2020-11-19 10:59:47,744[INFO ]: Initialization finished
+2020-11-19 10:59:47,748[INFO ]: Initialization started
+2020-11-19 10:59:47,748[INFO ]: Initialization finished
+2020-11-19 10:59:47,749[INFO ]: Initialization started
+2020-11-19 10:59:47,749[INFO ]: Initialization finished
+2020-11-19 10:59:47,753[INFO ]: SubmissionServlet servlet initialization - start
+2020-11-19 10:59:47,754[INFO ]: SubmissionServlet servlet initialization - completed
+2020-11-19 10:59:47,755[INFO ]: UserServlet servlet initialization - start
+2020-11-19 10:59:47,776[INFO ]: UserServlet servlet initialization - completed
+2020-11-19 10:59:47,776[INFO ]: Start agreement worker thread
+2020-11-19 10:59:47,814[INFO ]: Upload Property upload.repository.dir = /home/adamstone/Desktop/nunaliitTraining/aks/./media
+2020-11-19 10:59:47,815[INFO ]: Upload Property atlas.name = aks
+2020-11-19 10:59:47,815[INFO ]: OnUploadedListener: UploadListener
+2020-11-19 10:59:47,820[INFO ]: Started o.e.j.s.ServletContextHandler@5acf93bb{/,null,AVAILABLE}
+2020-11-19 10:59:47,835[INFO ]: New user agreement detected: 1-4a74d27edbad7ef9ac61be9d9adbb360
+2020-11-19 10:59:47,835[INFO ]: Started ServerConnector@5b03b9fe{HTTP/1.1}{0.0.0.0:8080}
+2020-11-19 10:59:47,837[INFO ]: Started @1198ms
+2020-11-19 10:59:47,840[INFO ]: User agreement is not enabled. Skip.
+2020-11-19 11:00:52,708[INFO ]: Logging initialized @401ms
+2020-11-19 11:00:52,867[INFO ]: jetty-9.2.14.v20151106
+2020-11-19 11:00:52,961[INFO ]: Initializing Couch Configuration
+2020-11-19 11:00:52,963[INFO ]: RNG: NativePRNG
+2020-11-19 11:00:52,967[INFO ]: Document database configured: http://127.0.0.1:5984/aks/
+2020-11-19 11:00:52,968[INFO ]: User database configured: http://127.0.0.1:5984/_users/
+2020-11-19 11:00:53,053[INFO ]: User design document. Disk: 3 Db: 3 Update Required: true
+2020-11-19 11:00:53,097[INFO ]: Reading properties from /home/adamstone/Desktop/nunaliitTraining/aks/./config/multimedia.properties
+2020-11-19 11:00:53,113[INFO ]: Reading properties from /home/adamstone/Desktop/nunaliitTraining/aks/./config/sensitive.properties
+2020-11-19 11:00:53,114[INFO ]: Reading properties from /home/adamstone/Desktop/nunaliitTraining/aks/./config/mail.properties
+2020-11-19 11:00:53,132[INFO ]: sendUploadMailNotification: false
+2020-11-19 11:00:53,151[INFO ]: sendUploadMailNotification: false
+2020-11-19 11:00:53,152[INFO ]: Reading properties from /home/adamstone/Desktop/nunaliitTraining/aks/./config/upload.properties
+2020-11-19 11:00:53,153[INFO ]: Repository directory is /home/adamstone/Desktop/nunaliitTraining/aks/./media
+2020-11-19 11:00:53,162[INFO ]: uploadOriginalFiles: true
+2020-11-19 11:00:53,167[INFO ]: uploadOriginalFiles: true
+2020-11-19 11:00:53,191[INFO ]: Start database change monitor thread
+2020-11-19 11:00:53,195[INFO ]: Submission database is not enabled
+2020-11-19 11:00:53,197[INFO ]: Start upload worker thread
+2020-11-19 11:00:53,199[INFO ]: Vetter daily notifications set to start at: 2020-11-20 00:00:00
+2020-11-19 11:00:53,214[INFO ]: Starting DB change listener thread
+2020-11-19 11:00:53,306[INFO ]: Starting DB change listener thread
+2020-11-19 11:00:53,307[INFO ]: Starting DB change listener thread
+2020-11-19 11:00:53,362[INFO ]: Completed Couch Configuration
+2020-11-19 11:00:53,362[INFO ]: Starting DB change listener thread
+2020-11-19 11:00:53,377[INFO ]: Start date worker thread
+2020-11-19 11:00:53,378[INFO ]: Initialization started
+2020-11-19 11:00:53,379[INFO ]: Initialization finished
+2020-11-19 11:00:53,380[INFO ]: Initialization started
+2020-11-19 11:00:53,380[INFO ]: Initialization finished
+2020-11-19 11:00:53,380[INFO ]: Initialization started
+2020-11-19 11:00:53,380[INFO ]: Initialization finished
+2020-11-19 11:00:53,382[INFO ]: SubmissionServlet servlet initialization - start
+2020-11-19 11:00:53,383[INFO ]: SubmissionServlet servlet initialization - completed
+2020-11-19 11:00:53,383[INFO ]: UserServlet servlet initialization - start
+2020-11-19 11:00:53,440[INFO ]: UserServlet servlet initialization - completed
+2020-11-19 11:00:53,440[INFO ]: Start agreement worker thread
+2020-11-19 11:00:53,450[INFO ]: Upload Property upload.repository.dir = /home/adamstone/Desktop/nunaliitTraining/aks/./media
+2020-11-19 11:00:53,450[INFO ]: Upload Property atlas.name = aks
+2020-11-19 11:00:53,451[INFO ]: OnUploadedListener: UploadListener
+2020-11-19 11:00:53,453[INFO ]: Started o.e.j.s.ServletContextHandler@5acf93bb{/,null,AVAILABLE}
+2020-11-19 11:00:53,470[INFO ]: New user agreement detected: 1-4a74d27edbad7ef9ac61be9d9adbb360
+2020-11-19 11:00:53,488[INFO ]: User agreement is not enabled. Skip.
+2020-11-19 11:00:53,490[INFO ]: Started ServerConnector@5b03b9fe{HTTP/1.1}{0.0.0.0:8080}
+2020-11-19 11:00:53,490[INFO ]: Started @1186ms
+2020-11-19 11:04:25,389[INFO ]: Logging initialized @512ms
+2020-11-19 11:04:25,568[INFO ]: jetty-9.2.14.v20151106
+2020-11-19 11:04:25,648[INFO ]: Initializing Couch Configuration
+2020-11-19 11:04:25,650[INFO ]: RNG: NativePRNG
+2020-11-19 11:04:25,653[INFO ]: Document database configured: http://127.0.0.1:5984/aks/
+2020-11-19 11:04:25,654[INFO ]: User database configured: http://127.0.0.1:5984/_users/
+2020-11-19 11:04:25,753[INFO ]: User design document. Disk: 3 Db: 3 Update Required: true
+2020-11-19 11:04:25,795[INFO ]: Reading properties from /home/adamstone/Desktop/nunaliitTraining/aks/./config/multimedia.properties
+2020-11-19 11:04:25,812[INFO ]: Reading properties from /home/adamstone/Desktop/nunaliitTraining/aks/./config/sensitive.properties
+2020-11-19 11:04:25,813[INFO ]: Reading properties from /home/adamstone/Desktop/nunaliitTraining/aks/./config/mail.properties
+2020-11-19 11:04:25,832[INFO ]: sendUploadMailNotification: false
+2020-11-19 11:04:25,847[INFO ]: sendUploadMailNotification: false
+2020-11-19 11:04:25,848[INFO ]: Reading properties from /home/adamstone/Desktop/nunaliitTraining/aks/./config/upload.properties
+2020-11-19 11:04:25,851[INFO ]: Repository directory is /home/adamstone/Desktop/nunaliitTraining/aks/./media
+2020-11-19 11:04:25,857[INFO ]: uploadOriginalFiles: true
+2020-11-19 11:04:25,863[INFO ]: uploadOriginalFiles: true
+2020-11-19 11:04:25,888[INFO ]: Start database change monitor thread
+2020-11-19 11:04:25,897[INFO ]: Submission database is not enabled
+2020-11-19 11:04:25,897[INFO ]: Start upload worker thread
+2020-11-19 11:04:25,900[INFO ]: Vetter daily notifications set to start at: 2020-11-20 00:00:00
+2020-11-19 11:04:25,927[INFO ]: Starting DB change listener thread
+2020-11-19 11:04:26,025[INFO ]: Starting DB change listener thread
+2020-11-19 11:04:26,026[INFO ]: Starting DB change listener thread
+2020-11-19 11:04:26,038[INFO ]: Completed Couch Configuration
+2020-11-19 11:04:26,043[INFO ]: Starting DB change listener thread
+2020-11-19 11:04:26,084[INFO ]: Initialization started
+2020-11-19 11:04:26,085[INFO ]: Initialization finished
+2020-11-19 11:04:26,085[INFO ]: Initialization started
+2020-11-19 11:04:26,085[INFO ]: Initialization finished
+2020-11-19 11:04:26,085[INFO ]: Initialization started
+2020-11-19 11:04:26,085[INFO ]: Initialization finished
+2020-11-19 11:04:26,093[INFO ]: Start date worker thread
+2020-11-19 11:04:26,094[INFO ]: SubmissionServlet servlet initialization - start
+2020-11-19 11:04:26,095[INFO ]: SubmissionServlet servlet initialization - completed
+2020-11-19 11:04:26,096[INFO ]: UserServlet servlet initialization - start
+2020-11-19 11:04:26,112[INFO ]: UserServlet servlet initialization - completed
+2020-11-19 11:04:26,132[INFO ]: Upload Property upload.repository.dir = /home/adamstone/Desktop/nunaliitTraining/aks/./media
+2020-11-19 11:04:26,132[INFO ]: Upload Property atlas.name = aks
+2020-11-19 11:04:26,132[INFO ]: OnUploadedListener: UploadListener
+2020-11-19 11:04:26,137[INFO ]: Started o.e.j.s.ServletContextHandler@5acf93bb{/,null,AVAILABLE}
+2020-11-19 11:04:26,138[INFO ]: Start agreement worker thread
+2020-11-19 11:04:26,175[INFO ]: Started ServerConnector@5b03b9fe{HTTP/1.1}{0.0.0.0:8080}
+2020-11-19 11:04:26,176[INFO ]: Started @1301ms
+2020-11-19 11:04:26,205[INFO ]: New user agreement detected: 1-4a74d27edbad7ef9ac61be9d9adbb360
+2020-11-19 11:04:26,220[INFO ]: User agreement is not enabled. Skip.
+2020-11-19 11:06:36,764[INFO ]: Logging initialized @340ms
+2020-11-19 11:06:36,896[INFO ]: jetty-9.2.14.v20151106
+2020-11-19 11:06:36,974[INFO ]: Initializing Couch Configuration
+2020-11-19 11:06:36,978[INFO ]: RNG: NativePRNG
+2020-11-19 11:06:36,981[INFO ]: Document database configured: http://127.0.0.1:5984/aks/
+2020-11-19 11:06:36,982[INFO ]: User database configured: http://127.0.0.1:5984/_users/
+2020-11-19 11:06:37,069[INFO ]: User design document. Disk: 3 Db: 3 Update Required: true
+2020-11-19 11:06:37,108[INFO ]: Reading properties from /home/adamstone/Desktop/nunaliitTraining/aks/./config/multimedia.properties
+2020-11-19 11:06:37,121[INFO ]: Reading properties from /home/adamstone/Desktop/nunaliitTraining/aks/./config/sensitive.properties
+2020-11-19 11:06:37,122[INFO ]: Reading properties from /home/adamstone/Desktop/nunaliitTraining/aks/./config/mail.properties
+2020-11-19 11:06:37,139[INFO ]: sendUploadMailNotification: false
+2020-11-19 11:06:37,150[INFO ]: sendUploadMailNotification: false
+2020-11-19 11:06:37,151[INFO ]: Reading properties from /home/adamstone/Desktop/nunaliitTraining/aks/./config/upload.properties
+2020-11-19 11:06:37,152[INFO ]: Repository directory is /home/adamstone/Desktop/nunaliitTraining/aks/./media
+2020-11-19 11:06:37,160[INFO ]: uploadOriginalFiles: true
+2020-11-19 11:06:37,168[INFO ]: uploadOriginalFiles: true
+2020-11-19 11:06:37,185[INFO ]: Start database change monitor thread
+2020-11-19 11:06:37,189[INFO ]: Submission database is not enabled
+2020-11-19 11:06:37,190[INFO ]: Start upload worker thread
+2020-11-19 11:06:37,193[INFO ]: Vetter daily notifications set to start at: 2020-11-20 00:00:00
+2020-11-19 11:06:37,228[INFO ]: Starting DB change listener thread
+2020-11-19 11:06:37,321[INFO ]: Starting DB change listener thread
+2020-11-19 11:06:37,322[INFO ]: Starting DB change listener thread
+2020-11-19 11:06:37,339[INFO ]: Completed Couch Configuration
+2020-11-19 11:06:37,339[INFO ]: Starting DB change listener thread
+2020-11-19 11:06:37,381[INFO ]: Initialization started
+2020-11-19 11:06:37,381[INFO ]: Initialization finished
+2020-11-19 11:06:37,381[INFO ]: Initialization started
+2020-11-19 11:06:37,382[INFO ]: Initialization finished
+2020-11-19 11:06:37,382[INFO ]: Initialization started
+2020-11-19 11:06:37,383[INFO ]: Initialization finished
+2020-11-19 11:06:37,388[INFO ]: SubmissionServlet servlet initialization - start
+2020-11-19 11:06:37,389[INFO ]: SubmissionServlet servlet initialization - completed
+2020-11-19 11:06:37,390[INFO ]: UserServlet servlet initialization - start
+2020-11-19 11:06:37,392[INFO ]: Start date worker thread
+2020-11-19 11:06:37,403[INFO ]: UserServlet servlet initialization - completed
+2020-11-19 11:06:37,414[INFO ]: Upload Property upload.repository.dir = /home/adamstone/Desktop/nunaliitTraining/aks/./media
+2020-11-19 11:06:37,414[INFO ]: Upload Property atlas.name = aks
+2020-11-19 11:06:37,415[INFO ]: OnUploadedListener: UploadListener
+2020-11-19 11:06:37,420[INFO ]: Started o.e.j.s.ServletContextHandler@5acf93bb{/,null,AVAILABLE}
+2020-11-19 11:06:37,423[INFO ]: Start agreement worker thread
+2020-11-19 11:06:37,444[INFO ]: Started ServerConnector@5b03b9fe{HTTP/1.1}{0.0.0.0:8080}
+2020-11-19 11:06:37,447[INFO ]: Started @1023ms
+2020-11-19 11:06:37,500[INFO ]: New user agreement detected: 1-4a74d27edbad7ef9ac61be9d9adbb360
+2020-11-19 11:06:37,502[INFO ]: User agreement is not enabled. Skip.
+2020-11-19 14:34:11,988[INFO ]: Logging initialized @922ms
+2020-11-19 14:34:12,772[INFO ]: jetty-9.2.14.v20151106
+2020-11-19 14:34:13,134[INFO ]: Initializing Couch Configuration
+2020-11-19 14:34:13,156[INFO ]: RNG: NativePRNG
+2020-11-19 14:34:13,171[INFO ]: Document database configured: http://127.0.0.1:5984/aks/
+2020-11-19 14:34:13,176[INFO ]: User database configured: http://127.0.0.1:5984/_users/
+2020-11-19 14:34:13,428[INFO ]: User design document. Disk: 3 Db: 3 Update Required: true
+2020-11-19 14:34:13,506[INFO ]: Reading properties from /home/adamstone/Desktop/nunaliitTraining/aks/./config/multimedia.properties
+2020-11-19 14:34:13,551[INFO ]: Reading properties from /home/adamstone/Desktop/nunaliitTraining/aks/./config/sensitive.properties
+2020-11-19 14:34:13,551[INFO ]: Reading properties from /home/adamstone/Desktop/nunaliitTraining/aks/./config/mail.properties
+2020-11-19 14:34:13,611[INFO ]: sendUploadMailNotification: false
+2020-11-19 14:34:13,624[INFO ]: sendUploadMailNotification: false
+2020-11-19 14:34:13,625[INFO ]: Reading properties from /home/adamstone/Desktop/nunaliitTraining/aks/./config/upload.properties
+2020-11-19 14:34:13,631[INFO ]: Repository directory is /home/adamstone/Desktop/nunaliitTraining/aks/./media
+2020-11-19 14:34:13,664[INFO ]: uploadOriginalFiles: true
+2020-11-19 14:34:13,676[INFO ]: uploadOriginalFiles: true
+2020-11-19 14:34:13,716[INFO ]: Start database change monitor thread
+2020-11-19 14:34:13,727[INFO ]: Submission database is not enabled
+2020-11-19 14:34:13,731[INFO ]: Start upload worker thread
+2020-11-19 14:34:13,753[INFO ]: Vetter daily notifications set to start at: 2020-11-20 00:00:00
+2020-11-19 14:34:13,796[INFO ]: Starting DB change listener thread
+2020-11-19 14:34:14,278[INFO ]: Starting DB change listener thread
+2020-11-19 14:34:14,279[INFO ]: Starting DB change listener thread
+2020-11-19 14:34:14,290[INFO ]: Completed Couch Configuration
+2020-11-19 14:34:14,290[INFO ]: Starting DB change listener thread
+2020-11-19 14:34:14,664[INFO ]: Initialization started
+2020-11-19 14:34:14,664[INFO ]: Start date worker thread
+2020-11-19 14:34:14,664[INFO ]: Initialization finished
+2020-11-19 14:34:14,664[INFO ]: Initialization started
+2020-11-19 14:34:14,664[INFO ]: Initialization finished
+2020-11-19 14:34:14,664[INFO ]: Initialization started
+2020-11-19 14:34:14,665[INFO ]: Initialization finished
+2020-11-19 14:34:14,666[INFO ]: SubmissionServlet servlet initialization - start
+2020-11-19 14:34:14,667[INFO ]: SubmissionServlet servlet initialization - completed
+2020-11-19 14:34:14,668[INFO ]: UserServlet servlet initialization - start
+2020-11-19 14:34:14,677[INFO ]: UserServlet servlet initialization - completed
+2020-11-19 14:34:14,681[INFO ]: Upload Property upload.repository.dir = /home/adamstone/Desktop/nunaliitTraining/aks/./media
+2020-11-19 14:34:14,682[INFO ]: Upload Property atlas.name = aks
+2020-11-19 14:34:14,683[INFO ]: OnUploadedListener: UploadListener
+2020-11-19 14:34:14,688[INFO ]: Started o.e.j.s.ServletContextHandler@5acf93bb{/,null,AVAILABLE}
+2020-11-19 14:34:14,695[INFO ]: Start agreement worker thread
+2020-11-19 14:34:14,901[INFO ]: Started ServerConnector@5b03b9fe{HTTP/1.1}{0.0.0.0:8080}
+2020-11-19 14:34:14,902[INFO ]: Started @3839ms
+2020-11-19 14:34:14,913[INFO ]: New user agreement detected: 1-4a74d27edbad7ef9ac61be9d9adbb360
+2020-11-19 14:34:14,976[INFO ]: User agreement is not enabled. Skip.
+2020-11-19 14:45:19,542[INFO ]: UploadServlet >welcome<
+2020-11-19 14:45:20,198[INFO ]: Upload worker processing: Document Work(state:simplifyGeometry id:dca7057b735d0021962fa790ee005193)
+2020-11-19 14:45:20,388[INFO ]: Loading document dca7057b735d0021962fa790ee005193
+2020-11-19 14:45:21,686[INFO ]: Saving document dca7057b735d0021962fa790ee005193
+2020-11-19 14:45:22,384[INFO ]: Upload worker completed: Document Work(state:simplifyGeometry id:dca7057b735d0021962fa790ee005193)
+2020-11-19 14:45:53,544[INFO ]: UploadServlet >welcome<
+2020-11-19 14:45:54,132[INFO ]: Upload worker processing: Document Work(state:simplifyGeometry id:dca7057b735d0021962fa790ee00446d)
+2020-11-19 14:45:54,133[INFO ]: Loading document dca7057b735d0021962fa790ee00446d
+2020-11-19 14:45:54,217[INFO ]: Saving document dca7057b735d0021962fa790ee00446d
+2020-11-19 14:45:54,434[INFO ]: Upload worker completed: Document Work(state:simplifyGeometry id:dca7057b735d0021962fa790ee00446d)
+2020-11-19 14:47:25,836[INFO ]: UploadServlet >welcome<
+2020-11-19 14:47:26,203[INFO ]: Upload worker processing: Document Work(state:simplifyGeometry id:dca7057b735d0021962fa790ee00dddb)
+2020-11-19 14:47:26,203[INFO ]: Loading document dca7057b735d0021962fa790ee00dddb
+2020-11-19 14:47:26,225[INFO ]: Saving document dca7057b735d0021962fa790ee00dddb
+2020-11-19 14:47:26,493[INFO ]: Upload worker completed: Document Work(state:simplifyGeometry id:dca7057b735d0021962fa790ee00dddb)
+2020-11-19 14:47:42,557[INFO ]: UploadServlet >welcome<
+2020-11-19 14:47:43,053[INFO ]: Upload worker processing: Document Work(state:simplifyGeometry id:dca7057b735d0021962fa790ee00d6bb)
+2020-11-19 14:47:43,062[INFO ]: Loading document dca7057b735d0021962fa790ee00d6bb
+2020-11-19 14:47:43,135[INFO ]: Saving document dca7057b735d0021962fa790ee00d6bb
+2020-11-19 14:47:43,317[INFO ]: Upload worker completed: Document Work(state:simplifyGeometry id:dca7057b735d0021962fa790ee00d6bb)

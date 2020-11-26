@@ -1,0 +1,12 @@
+[
+    {
+			"widgetType": "createDocument"
+			,"showAsLink": true
+			,"containerId": "module_title_bar"
+		},
+    {
+			"widgetType": "legendWidget"
+			,"containsClass": "nunaliit_content"
+			,"sourceCanvasName": "Aks Map"
+		}
+	]

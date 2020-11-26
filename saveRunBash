@@ -1,0 +1,6 @@
+../nunaliit_2.2.9-SNAPSHOT_2020-11-18_8eba8e4/bin/nunaliit update-schema --all
+
+../nunaliit_2.2.9-SNAPSHOT_2020-11-18_8eba8e4/bin/nunaliit update
+
+../nunaliit_2.2.9-SNAPSHOT_2020-11-18_8eba8e4/bin/nunaliit run 
+

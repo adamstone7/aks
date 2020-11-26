@@ -1,0 +1,45 @@
+2020-11-23 12:08:09,146[INFO ]: Logging initialized @1534ms
+2020-11-23 12:08:13,253[INFO ]: jetty-9.2.14.v20151106
+2020-11-23 12:08:15,377[INFO ]: Initializing Couch Configuration
+2020-11-23 12:08:15,482[INFO ]: RNG: NativePRNG
+2020-11-23 12:08:15,499[INFO ]: Document database configured: http://127.0.0.1:5984/aks/
+2020-11-23 12:08:15,504[INFO ]: User database configured: http://127.0.0.1:5984/_users/
+2020-11-23 12:08:16,010[INFO ]: User design document. Disk: 3 Db: 3 Update Required: true
+2020-11-23 12:08:16,066[INFO ]: Reading properties from /home/adamstone/Desktop/nunaliitTraining/aks/./config/multimedia.properties
+2020-11-23 12:08:16,308[INFO ]: Reading properties from /home/adamstone/Desktop/nunaliitTraining/aks/./config/sensitive.properties
+2020-11-23 12:08:16,310[INFO ]: Reading properties from /home/adamstone/Desktop/nunaliitTraining/aks/./config/mail.properties
+2020-11-23 12:08:16,479[INFO ]: sendUploadMailNotification: false
+2020-11-23 12:08:16,551[INFO ]: sendUploadMailNotification: false
+2020-11-23 12:08:16,554[INFO ]: Reading properties from /home/adamstone/Desktop/nunaliitTraining/aks/./config/upload.properties
+2020-11-23 12:08:16,684[INFO ]: Repository directory is /home/adamstone/Desktop/nunaliitTraining/aks/./media
+2020-11-23 12:08:16,796[INFO ]: uploadOriginalFiles: true
+2020-11-23 12:08:16,814[INFO ]: uploadOriginalFiles: true
+2020-11-23 12:08:17,245[INFO ]: Start database change monitor thread
+2020-11-23 12:08:17,266[INFO ]: Submission database is not enabled
+2020-11-23 12:08:17,271[INFO ]: Start upload worker thread
+2020-11-23 12:08:17,301[INFO ]: Vetter daily notifications set to start at: 2020-11-24 00:00:00
+2020-11-23 12:08:17,594[INFO ]: Starting DB change listener thread
+2020-11-23 12:08:19,955[INFO ]: Starting DB change listener thread
+2020-11-23 12:08:19,956[INFO ]: Starting DB change listener thread
+2020-11-23 12:08:19,988[INFO ]: Completed Couch Configuration
+2020-11-23 12:08:19,988[INFO ]: Starting DB change listener thread
+2020-11-23 12:08:20,124[INFO ]: Start date worker thread
+2020-11-23 12:08:20,124[INFO ]: Initialization started
+2020-11-23 12:08:20,127[INFO ]: Initialization finished
+2020-11-23 12:08:20,129[INFO ]: Initialization started
+2020-11-23 12:08:20,130[INFO ]: Initialization finished
+2020-11-23 12:08:20,131[INFO ]: Initialization started
+2020-11-23 12:08:20,131[INFO ]: Initialization finished
+2020-11-23 12:08:20,134[INFO ]: SubmissionServlet servlet initialization - start
+2020-11-23 12:08:20,136[INFO ]: SubmissionServlet servlet initialization - completed
+2020-11-23 12:08:20,136[INFO ]: UserServlet servlet initialization - start
+2020-11-23 12:08:20,173[INFO ]: UserServlet servlet initialization - completed
+2020-11-23 12:08:20,173[INFO ]: Start agreement worker thread
+2020-11-23 12:08:20,185[INFO ]: Upload Property upload.repository.dir = /home/adamstone/Desktop/nunaliitTraining/aks/./media
+2020-11-23 12:08:20,185[INFO ]: Upload Property atlas.name = aks
+2020-11-23 12:08:20,186[INFO ]: OnUploadedListener: UploadListener
+2020-11-23 12:08:20,188[INFO ]: Started o.e.j.s.ServletContextHandler@5acf93bb{/,null,AVAILABLE}
+2020-11-23 12:08:20,395[INFO ]: Started ServerConnector@5b03b9fe{HTTP/1.1}{0.0.0.0:8080}
+2020-11-23 12:08:20,397[INFO ]: Started @12793ms
+2020-11-23 12:08:20,455[INFO ]: New user agreement detected: 1-4a74d27edbad7ef9ac61be9d9adbb360
+2020-11-23 12:08:20,546[INFO ]: User agreement is not enabled. Skip.
